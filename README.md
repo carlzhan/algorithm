@@ -18,4 +18,6 @@
 
 [剑指offer 面试题16：数值的整数次方 java](https://blog.csdn.net/Qyuewei/article/details/90059324)
 
-[面试题17：打印从1到最大的n位数 java](https://blog.csdn.net/Qyuewei/article/details/90170390)
+[剑指offer 面试题17：打印从1到最大的n位数 java](https://blog.csdn.net/Qyuewei/article/details/90170390)
+
+[剑指offer 面试题18：删除链表的节点 时间复杂度O(1) java](https://blog.csdn.net/Qyuewei/article/details/90174247)
